@@ -1,5 +1,6 @@
 # neetcode 250
 https://neetcode.io/practice?tab=neetcode250
+https://leetcode.com/u/aadarshb123/
 
 | Question                                      | Difficulty | Date Solved | # Times Solved | Notes                                                        | Time Complexity            |
 |-----------------------------------------------|------------|-------------|----------------|--------------------------------------------------------------|----------------------------|
