@@ -5,9 +5,9 @@ https://leetcode.com/u/aadarshb123/
 
 | Problem Name                       | My Solution                                                                    |
 |------------------------------------|--------------------------------------------------------------------------------|
-| Concatenation of Array             | [concatenation_of_array.py](https://github.com/yourrepo/solutions/concatenation_of_array.py) |
-| Contains Duplicate                 | [contains_duplicate.py](https://github.com/yourrepo/solutions/contains_duplicate.py) |
-| Valid Anagram                      | [valid_anagram.py](https://github.com/yourrepo/solutions/valid_anagram.py) |
+| Concatenation of Array             | [concatenation_of_array.py](https://github.com/aadarshb123/leetcode/concatenation_of_array.py) |
+| Contains Duplicate                 | [contains_duplicate.py](https://github.com/contains_duplicate.py) |
+| Valid Anagram                      | [valid_anagram.py](https://github.com/valid_anagram.py) |
 | Two Sum                            | [two_sum.py](https://github.com/yourrepo/solutions/two_sum.py) |
 | Longest Common Prefix              | [longest_common_prefix.py](https://github.com/yourrepo/solutions/longest_common_prefix.py) |
 | Group Anagrams                     | [group_anagrams.py](https://github.com/yourrepo/solutions/group_anagrams.py) |
